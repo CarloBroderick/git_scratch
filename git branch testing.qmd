@@ -3,3 +3,9 @@ title: "git branch testing"
 format: html
 editor: visual
 ---
+
+### Add some awesome text
+
+```{r}
+coolish_code <- c(1,2,3)
+```
